@@ -2,6 +2,8 @@
   background-color: white;
   display: flex;
   justify-content: space-around;
+  padding-left: 5rem;
+  padding-right: 5rem;
 }
 
 .card-container div {
