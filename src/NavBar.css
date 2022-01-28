@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  padding: 0 5rem;
+}
+
+.menu {
+  transform: scale(0.3);
+}
+
+.logo {
+  transform: scale(0.3);
+}
